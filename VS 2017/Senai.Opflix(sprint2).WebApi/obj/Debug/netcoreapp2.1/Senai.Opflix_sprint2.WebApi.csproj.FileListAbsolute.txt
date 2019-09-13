@@ -1,0 +1,28 @@
+C:\Users\47503773847\source\repos\Senai.Opflix(sprint2).WebApi\Senai.Opflix(sprint2).WebApi\obj\Debug\netcoreapp2.1\Senai.Opflix_sprint2.WebApi.csprojAssemblyReference.cache
+C:\Users\47503773847\source\repos\Senai.Opflix(sprint2).WebApi\Senai.Opflix(sprint2).WebApi\obj\Debug\netcoreapp2.1\Senai.Opflix_sprint2.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\47503773847\source\repos\Senai.Opflix(sprint2).WebApi\Senai.Opflix(sprint2).WebApi\obj\Debug\netcoreapp2.1\Senai.Opflix_sprint2.WebApi.RazorAssemblyInfo.cache
+C:\Users\47503773847\source\repos\Senai.Opflix(sprint2).WebApi\Senai.Opflix(sprint2).WebApi\obj\Debug\netcoreapp2.1\Senai.Opflix_sprint2.WebApi.RazorAssemblyInfo.cs
+C:\Users\47503773847\source\repos\Senai.Opflix(sprint2).WebApi\Senai.Opflix(sprint2).WebApi\obj\Debug\netcoreapp2.1\Senai.Opflix_sprint2.WebApi.AssemblyInfoInputs.cache
+C:\Users\47503773847\source\repos\Senai.Opflix(sprint2).WebApi\Senai.Opflix(sprint2).WebApi\obj\Debug\netcoreapp2.1\Senai.Opflix_sprint2.WebApi.AssemblyInfo.cs
+C:\Users\47503773847\source\repos\Senai.Opflix(sprint2).WebApi\Senai.Opflix(sprint2).WebApi\bin\Debug\netcoreapp2.1\Senai.Opflix_sprint2.WebApi.deps.json
+C:\Users\47503773847\source\repos\Senai.Opflix(sprint2).WebApi\Senai.Opflix(sprint2).WebApi\bin\Debug\netcoreapp2.1\Senai.Opflix_sprint2.WebApi.runtimeconfig.json
+C:\Users\47503773847\source\repos\Senai.Opflix(sprint2).WebApi\Senai.Opflix(sprint2).WebApi\bin\Debug\netcoreapp2.1\Senai.Opflix_sprint2.WebApi.runtimeconfig.dev.json
+C:\Users\47503773847\source\repos\Senai.Opflix(sprint2).WebApi\Senai.Opflix(sprint2).WebApi\bin\Debug\netcoreapp2.1\Senai.Opflix_sprint2.WebApi.dll
+C:\Users\47503773847\source\repos\Senai.Opflix(sprint2).WebApi\Senai.Opflix(sprint2).WebApi\bin\Debug\netcoreapp2.1\Senai.Opflix_sprint2.WebApi.pdb
+C:\Users\47503773847\source\repos\Senai.Opflix(sprint2).WebApi\Senai.Opflix(sprint2).WebApi\obj\Debug\netcoreapp2.1\Senai.Opflix_sprint2.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\47503773847\source\repos\Senai.Opflix(sprint2).WebApi\Senai.Opflix(sprint2).WebApi\obj\Debug\netcoreapp2.1\Senai.Opflix_sprint2.WebApi.dll
+C:\Users\47503773847\source\repos\Senai.Opflix(sprint2).WebApi\Senai.Opflix(sprint2).WebApi\obj\Debug\netcoreapp2.1\Senai.Opflix_sprint2.WebApi.pdb
+C:\Users\47503773847\source\repos\Senai.Opflix(sprint2).WebApi\VS 2017\Senai.Opflix(sprint2).WebApi\bin\Debug\netcoreapp2.1\Senai.Opflix_sprint2.WebApi.deps.json
+C:\Users\47503773847\source\repos\Senai.Opflix(sprint2).WebApi\VS 2017\Senai.Opflix(sprint2).WebApi\bin\Debug\netcoreapp2.1\Senai.Opflix_sprint2.WebApi.runtimeconfig.json
+C:\Users\47503773847\source\repos\Senai.Opflix(sprint2).WebApi\VS 2017\Senai.Opflix(sprint2).WebApi\bin\Debug\netcoreapp2.1\Senai.Opflix_sprint2.WebApi.runtimeconfig.dev.json
+C:\Users\47503773847\source\repos\Senai.Opflix(sprint2).WebApi\VS 2017\Senai.Opflix(sprint2).WebApi\bin\Debug\netcoreapp2.1\Senai.Opflix_sprint2.WebApi.dll
+C:\Users\47503773847\source\repos\Senai.Opflix(sprint2).WebApi\VS 2017\Senai.Opflix(sprint2).WebApi\bin\Debug\netcoreapp2.1\Senai.Opflix_sprint2.WebApi.pdb
+C:\Users\47503773847\source\repos\Senai.Opflix(sprint2).WebApi\VS 2017\Senai.Opflix(sprint2).WebApi\obj\Debug\netcoreapp2.1\Senai.Opflix_sprint2.WebApi.csprojAssemblyReference.cache
+C:\Users\47503773847\source\repos\Senai.Opflix(sprint2).WebApi\VS 2017\Senai.Opflix(sprint2).WebApi\obj\Debug\netcoreapp2.1\Senai.Opflix_sprint2.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\47503773847\source\repos\Senai.Opflix(sprint2).WebApi\VS 2017\Senai.Opflix(sprint2).WebApi\obj\Debug\netcoreapp2.1\Senai.Opflix_sprint2.WebApi.RazorAssemblyInfo.cache
+C:\Users\47503773847\source\repos\Senai.Opflix(sprint2).WebApi\VS 2017\Senai.Opflix(sprint2).WebApi\obj\Debug\netcoreapp2.1\Senai.Opflix_sprint2.WebApi.RazorAssemblyInfo.cs
+C:\Users\47503773847\source\repos\Senai.Opflix(sprint2).WebApi\VS 2017\Senai.Opflix(sprint2).WebApi\obj\Debug\netcoreapp2.1\Senai.Opflix_sprint2.WebApi.AssemblyInfoInputs.cache
+C:\Users\47503773847\source\repos\Senai.Opflix(sprint2).WebApi\VS 2017\Senai.Opflix(sprint2).WebApi\obj\Debug\netcoreapp2.1\Senai.Opflix_sprint2.WebApi.AssemblyInfo.cs
+C:\Users\47503773847\source\repos\Senai.Opflix(sprint2).WebApi\VS 2017\Senai.Opflix(sprint2).WebApi\obj\Debug\netcoreapp2.1\Senai.Opflix_sprint2.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\47503773847\source\repos\Senai.Opflix(sprint2).WebApi\VS 2017\Senai.Opflix(sprint2).WebApi\obj\Debug\netcoreapp2.1\Senai.Opflix_sprint2.WebApi.dll
+C:\Users\47503773847\source\repos\Senai.Opflix(sprint2).WebApi\VS 2017\Senai.Opflix(sprint2).WebApi\obj\Debug\netcoreapp2.1\Senai.Opflix_sprint2.WebApi.pdb
