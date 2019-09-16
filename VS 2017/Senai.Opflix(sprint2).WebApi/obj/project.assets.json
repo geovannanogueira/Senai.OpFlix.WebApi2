@@ -12287,11 +12287,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\47503773847\\source\\repos\\Senai.Opflix(sprint2).WebApi\\VS 2017\\Senai.Opflix(sprint2).WebApi\\Senai.Opflix_sprint2.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\47503773847\\source\\repos\\Senai.Opflix(sprint2).WebApi\\Senai.OpFlix.WebApi2\\VS 2017\\Senai.Opflix(sprint2).WebApi\\Senai.Opflix_sprint2.WebApi.csproj",
       "projectName": "Senai.Opflix_sprint2.WebApi",
-      "projectPath": "C:\\Users\\47503773847\\source\\repos\\Senai.Opflix(sprint2).WebApi\\VS 2017\\Senai.Opflix(sprint2).WebApi\\Senai.Opflix_sprint2.WebApi.csproj",
+      "projectPath": "C:\\Users\\47503773847\\source\\repos\\Senai.Opflix(sprint2).WebApi\\Senai.OpFlix.WebApi2\\VS 2017\\Senai.Opflix(sprint2).WebApi\\Senai.Opflix_sprint2.WebApi.csproj",
       "packagesPath": "C:\\Users\\47503773847\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\47503773847\\source\\repos\\Senai.Opflix(sprint2).WebApi\\VS 2017\\Senai.Opflix(sprint2).WebApi\\obj\\",
+      "outputPath": "C:\\Users\\47503773847\\source\\repos\\Senai.Opflix(sprint2).WebApi\\Senai.OpFlix.WebApi2\\VS 2017\\Senai.Opflix(sprint2).WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
